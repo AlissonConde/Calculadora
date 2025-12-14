@@ -1,1 +1,3 @@
-console.log('Calculadora carregada com sucesso!');
+function calcular(tipo, valor) {
+    
+}
